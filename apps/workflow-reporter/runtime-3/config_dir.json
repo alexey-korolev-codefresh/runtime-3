@@ -1,0 +1,15 @@
+{
+  "appName": "workflow-reporter",
+  "userGivenName": "workflow-reporter",
+  "destNamespace": "runtime-3",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/workflow-reporter/runtime-3/resources",
+  "srcRepoURL": "https://github.com/alexey-korolev-codefresh/runtime-3.git",
+  "srcTargetRevision": "",
+  "labels": {
+    "codefresh_io_entity": "component",
+    "codefresh_io_internal": "true"
+  },
+  "exclude": "",
+  "include": ""
+}
