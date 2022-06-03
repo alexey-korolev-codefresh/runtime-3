@@ -1,0 +1,15 @@
+{
+  "appName": "isc",
+  "userGivenName": "isc",
+  "destNamespace": "runtime-3",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "runtimes/runtime-3",
+  "srcRepoURL": "https://github.com/alexey-korolev-codefresh/test.git",
+  "srcTargetRevision": "",
+  "labels": {
+    "codefresh_io_entity": "git-source",
+    "codefresh_io_internal": "true"
+  },
+  "exclude": "",
+  "include": ""
+}
